@@ -1,0 +1,22 @@
+:root {
+    --very-dark-blue: hsl(233, 47%, 7%);
+    --dark-desaturated-blue: hsl(244, 38%, 16%);
+    --soft-violet: hsl(277, 64%, 61%);
+    --white: hsl(0, 0%, 100%);
+    --transparent-white: hsl(0, 0%, 100%, 0.75);
+    --lighter-transparent-white: hsl(0, 0%, 100%, 0.6);
+}
+
+body {
+    font-size: 15px;
+    font-family: "Inter", sans-serif;
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center;
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
